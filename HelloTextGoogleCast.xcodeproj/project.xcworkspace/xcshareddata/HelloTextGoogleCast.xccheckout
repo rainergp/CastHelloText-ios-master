@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8B353114-A180-4DE0-896C-1EC8ED3514D0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HelloTextGoogleCast</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>075626C4-7C91-4774-8A46-DE8CF5D34BAC</key>
+		<string>https://github.com/rainergp/CastHelloText-ios-master.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HelloTextGoogleCast.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>075626C4-7C91-4774-8A46-DE8CF5D34BAC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rainergp/CastHelloText-ios-master.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>075626C4-7C91-4774-8A46-DE8CF5D34BAC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>075626C4-7C91-4774-8A46-DE8CF5D34BAC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CastHelloText-ios-master</string>
+		</dict>
+	</array>
+</dict>
+</plist>
